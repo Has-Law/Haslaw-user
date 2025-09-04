@@ -1,5 +1,19 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Git Repository Setup
+
+If you already have this repository locally but it was pointing to a different remote, you can update it to pull from this repository:
+
+```bash
+# Update remote URL
+git remote set-url origin https://github.com/Has-Law/Haslaw-user.git
+
+# Pull latest changes
+git pull origin main
+```
+
+For detailed Git workflow instructions, see [GIT_WORKFLOW.md](./GIT_WORKFLOW.md).
+
 ## Getting Started
 
 First, run the development server:
